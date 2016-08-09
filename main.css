@@ -1,0 +1,33 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: black;
+    font-size: 20px;
+}
+.wraper{
+    width: 1000px;
+    margin: 0 auto;
+}
+.left-main,.right-main{
+	float: left;
+	width: 50%;
+}
+.left-main ul li{
+    float: left;
+    list-style: none;
+    margin-right: 20px;
+}
+.right-main ul li{
+	list-style: none;
+	margin-bottom: 20px;
+}
